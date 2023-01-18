@@ -1,0 +1,250 @@
+14823897298192278947n
+preparing public 1/1
+Checking identities 1/3
+calculateExpression: 1
+Checking identities 2/3
+calculateExpression: 2
+calculateExpression: 0
+Checking identities 3/3
+calculateExpression: 3
+Continue: execution trace matches the PIL!
+Interpolating reverse....
+Layer ifft0
+start block 10 0
+Interpolating prepare....
+end block 10 0
+Bit reverse....
+Layer fft 0
+linear interpolatePrepare start.... 0/0
+linear interpolatePrepare end.... 0/0
+interpolation terminated
+pool terminated
+slicing buff 0
+creating thread 0
+waiting..
+linear hash start.... 0/2048
+merkelizing hash start.... 0/1024
+merkelizing hash end.... 0/1024
+merkelizing hash start.... 0/512
+merkelizing hash end.... 0/512
+merkelizing hash start.... 0/256
+merkelizing hash end.... 0/256
+merkelizing hash start.... 0/128
+merkelizing hash end.... 0/128
+merkelizing hash start.... 0/64
+merkelizing hash end.... 0/64
+merkelizing hash start.... 0/32
+merkelizing hash end.... 0/32
+merkelizing hash start.... 0/16
+merkelizing hash end.... 0/16
+merkelizing hash start.... 0/8
+merkelizing hash end.... 0/8
+merkelizing hash start.... 0/4
+merkelizing hash end.... 0/4
+merkelizing hash start.... 0/2
+merkelizing hash end.... 0/2
+merkelizing hash start.... 0/1
+merkelizing hash end.... 0/1
+maxDeg: 3, nIm: 0, d: 3
+27
+27
+27
+Merkelizing 1....
+Interpolating reverse....
+Layer ifft0
+start block 10 0
+Interpolating prepare....
+end block 10 0
+linear interpolatePrepare start.... 0/0
+linear interpolatePrepare end.... 0/0
+Bit reverse....
+Layer fft 0
+start block 11 0
+end block 11 0
+interpolation terminated
+pool terminated
+slicing buff 0
+creating thread 0
+waiting..
+linear hash start.... 0/2048
+merkelizing hash start.... 0/1024
+merkelizing hash end.... 0/1024
+merkelizing hash start.... 0/512
+merkelizing hash end.... 0/512
+merkelizing hash start.... 0/256
+merkelizing hash end.... 0/256
+merkelizing hash start.... 0/128
+merkelizing hash end.... 0/128
+merkelizing hash start.... 0/64
+merkelizing hash end.... 0/64
+merkelizing hash start.... 0/32
+merkelizing hash end.... 0/32
+merkelizing hash start.... 0/16
+merkelizing hash end.... 0/16
+merkelizing hash start.... 0/8
+merkelizing hash end.... 0/8
+merkelizing hash start.... 0/4
+merkelizing hash end.... 0/4
+merkelizing hash start.... 0/2
+merkelizing hash end.... 0/2
+merkelizing hash start.... 0/1
+merkelizing hash end.... 0/1
+start exec step2prev... 0/1024 
+Merkelizing 2....
+Interpolating reverse....
+Layer ifft0
+end exec step2prev... 0/1024 
+start block 10 0
+Interpolating prepare....
+end block 10 0
+linear interpolatePrepare start.... 0/0
+Bit reverse....
+Layer fft 0
+linear interpolatePrepare end.... 0/0
+start block 11 0
+end block 11 0
+interpolation terminated
+pool terminated
+slicing buff 0
+creating thread 0
+waiting..
+linear hash start.... 0/2048
+merkelizing hash start.... 0/1024
+merkelizing hash end.... 0/1024
+merkelizing hash start.... 0/512
+merkelizing hash end.... 0/512
+merkelizing hash start.... 0/256
+merkelizing hash end.... 0/256
+merkelizing hash start.... 0/128
+merkelizing hash end.... 0/128
+merkelizing hash start.... 0/64
+merkelizing hash end.... 0/64
+merkelizing hash start.... 0/32
+merkelizing hash end.... 0/32
+merkelizing hash start.... 0/16
+merkelizing hash end.... 0/16
+merkelizing hash start.... 0/8
+merkelizing hash end.... 0/8
+merkelizing hash start.... 0/4
+merkelizing hash end.... 0/4
+merkelizing hash start.... 0/2
+merkelizing hash end.... 0/2
+merkelizing hash start.... 0/1
+merkelizing hash end.... 0/1
+start exec step3prev... 0/1024 
+end exec step3prev... 0/1024 
+Merkelizing 3....
+Interpolating reverse....
+Layer ifft0
+start exec step3... 0/1024 
+end exec step3... 0/1024 
+start block 10 0
+Interpolating prepare....
+end block 10 0
+linear interpolatePrepare start.... 0/0
+Bit reverse....
+Layer fft 0
+linear interpolatePrepare end.... 0/0
+start block 11 0
+end block 11 0
+interpolation terminated
+pool terminated
+slicing buff 0
+creating thread 0
+waiting..
+linear hash start.... 0/2048
+merkelizing hash start.... 0/1024
+merkelizing hash end.... 0/1024
+merkelizing hash start.... 0/512
+merkelizing hash end.... 0/512
+merkelizing hash start.... 0/256
+merkelizing hash end.... 0/256
+merkelizing hash start.... 0/128
+merkelizing hash end.... 0/128
+merkelizing hash start.... 0/64
+merkelizing hash end.... 0/64
+merkelizing hash start.... 0/32
+merkelizing hash end.... 0/32
+merkelizing hash start.... 0/16
+merkelizing hash end.... 0/16
+merkelizing hash start.... 0/8
+merkelizing hash end.... 0/8
+merkelizing hash start.... 0/4
+merkelizing hash end.... 0/4
+merkelizing hash start.... 0/2
+merkelizing hash end.... 0/2
+merkelizing hash start.... 0/1
+merkelizing hash end.... 0/1
+start exec step42ns... 0/2048 
+end exec step42ns... 0/2048 
+start block 11 0
+start block 11 0
+Merkelizing 4....
+slicing buff 0
+creating thread 0
+waiting..
+linear hash start.... 0/2048
+linear hash end.... 0/2048
+merkelizing hash start.... 0/1024
+merkelizing hash end.... 0/1024
+merkelizing hash start.... 0/512
+merkelizing hash end.... 0/512
+merkelizing hash start.... 0/256
+merkelizing hash end.... 0/256
+merkelizing hash start.... 0/128
+merkelizing hash end.... 0/128
+merkelizing hash start.... 0/64
+merkelizing hash end.... 0/64
+merkelizing hash start.... 0/32
+merkelizing hash end.... 0/32
+merkelizing hash start.... 0/16
+merkelizing hash end.... 0/16
+merkelizing hash start.... 0/8
+merkelizing hash end.... 0/8
+merkelizing hash start.... 0/4
+merkelizing hash end.... 0/4
+merkelizing hash start.... 0/2
+merkelizing hash end.... 0/2
+merkelizing hash start.... 0/1
+merkelizing hash end.... 0/1
+start exec step52ns... 0/2048 
+slicing buff 0
+creating thread 0
+waiting..
+end exec step52ns... 0/2048 
+linear hash start.... 0/128
+linear hash end.... 0/128
+merkelizing hash start.... 0/64
+merkelizing hash end.... 0/64
+merkelizing hash start.... 0/32
+merkelizing hash end.... 0/32
+merkelizing hash start.... 0/16
+merkelizing hash end.... 0/16
+merkelizing hash start.... 0/8
+merkelizing hash end.... 0/8
+merkelizing hash start.... 0/4
+merkelizing hash end.... 0/4
+merkelizing hash start.... 0/2
+merkelizing hash end.... 0/2
+merkelizing hash start.... 0/1
+merkelizing hash end.... 0/1
+slicing buff 0
+creating thread 0
+waiting..
+linear hash start.... 0/8
+linear hash end.... 0/8
+merkelizing hash start.... 0/4
+merkelizing hash end.... 0/4
+merkelizing hash start.... 0/2
+merkelizing hash end.... 0/2
+merkelizing hash start.... 0/1
+merkelizing hash end.... 0/1
+Query:1254
+Query:741
+Query:286
+Query:908
+Query:1563
+Query:1346
+Query:832
+Query:566
+VALID proof!

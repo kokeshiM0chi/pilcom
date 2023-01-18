@@ -1,0 +1,17 @@
+{
+  "name": "mfibonacci_sm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "executor_mfibonacci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "pil-stark": "^0.0.48",
+    "yargs": "^17.6.2"
+  }
+}
